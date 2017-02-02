@@ -1,3 +1,7 @@
+# This example is from the JModelica User's Guide 1.17.0 Chapter 9
+# It includes a few fixes to enable it to run (example itself doesn't run as
+# written).
+# See http://www.jmodelica.org/api-docs/usersguide/1.17.0/ch09.html
 # Import library for path manipulations
 import os.path
 
