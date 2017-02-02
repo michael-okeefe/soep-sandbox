@@ -2,6 +2,14 @@
 # It includes a few fixes to enable it to run (example itself doesn't run as
 # written).
 # See http://www.jmodelica.org/api-docs/usersguide/1.17.0/ch09.html
+# To run from JModelica on Windows:
+# 1. Launch the JModelica IPython window
+# 2. from within IPython:
+#    - %cd <path to folder of this file>
+#    - %run ast_example.py
+# Note: I have not had success in rerunning this file from the same IPython
+# instance...
+
 # Import library for path manipulations
 import os.path
 
